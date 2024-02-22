@@ -1,3 +1,7 @@
+## Its a serverless application that works with AWS and React. Its just startup project to start fast-building and be reference.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
